@@ -46,7 +46,8 @@ p{
 .button
 {
     border: 1px solid #f0f0f0;
-    color: red;
+    color: white;
+    background color: red;
     margin-right: 2%;
     padding: 10px 30px;
     transition: 0.4s ease;
