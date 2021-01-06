@@ -37,18 +37,18 @@ body
     text-align: center;
 }
 h1{
-    font-size: 500%;
+    font-size: 400%;
     margin-top: 5%;
 }
 p{
-    font-size: 300%;
+    font-size: 200%;
 }
 .button
 {
     border: 1px solid #f0f0f0;
     color: white;
     background-color: #A52A2A;
-    margin-top:10%;
+    margin-top:20%;
     margin-right: 2%;
     padding: 10px 30px;
     transition: 0.4s ease;
