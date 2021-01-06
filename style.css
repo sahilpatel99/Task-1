@@ -21,14 +21,14 @@ body
     color: #000000;
     background-color: #ffffff;
 }
-.navbar-brand
+/*.navbar-brand
 {
     color: #ffffff;
 }
 .navbar-brand:hover{
     color: #ffffff;
     text-decoration: none;
-}
+}*/
 .jumbotron
 {
     background: transparent;
@@ -125,7 +125,7 @@ p{
   textarea:-ms-input-placeholder { color: #aaaaaa; }
   
   /*---------------------------------------------*/
-  button {
+ /* button {
       outline: none !important;
       border: none;
       background: white;
@@ -137,7 +137,7 @@ p{
   
   iframe {
       border: none !important;
-  }
+  }*/
   
   
   
