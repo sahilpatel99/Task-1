@@ -21,14 +21,14 @@ body
     color: #000000;
     background-color: #ffffff;
 }
-/*.navbar-brand
+.navbar-brand
 {
     color: #ffffff;
 }
 .navbar-brand:hover{
     color: #ffffff;
     text-decoration: none;
-}*/
+}
 .jumbotron
 {
     background: transparent;
