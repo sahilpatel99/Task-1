@@ -142,7 +142,7 @@ p{
   
   
   /*/////////////////////[ Contact ]/////////////////////////*/
-  
+  /*
   
   .container-contact100 {
     width: 100%;  
@@ -173,7 +173,8 @@ p{
     justify-content: space-between;
     padding: 110px 130px 157px 148px;
   }
-  
+  */
+
   /*------------------------------------------------------------------*/
   .contact100-pic {
     width: 310px;
@@ -217,7 +218,8 @@ p{
   }
   
   /*---------------------------------------------*/
-  .wrap-input100 {
+/* 
+.wrap-input100 {
     position: relative;
     width: 100%;
     z-index: 1;
@@ -233,10 +235,11 @@ p{
     line-height: 1.5;
     color: #666666;
   }
-  
+  */
   
   /*------------------------------------------------------------------*/
-  .focus-input100 {
+/*  
+.focus-input100 {
     display: block;
     position: absolute;
     border-radius: 25px;
@@ -296,9 +299,10 @@ p{
     color: #846add;
     padding-left: 22px;
   }
-  
+ */ 
   /*//////////////////////////[ Button ]//////////////////////////*/
-  .container-contact100-form-btn {
+/*  
+.container-contact100-form-btn {
     width: 100%;
     display: -webkit-box;
     display: -webkit-flex;
@@ -337,7 +341,7 @@ p{
   .contact100-form-btn:hover {
     background: #333333;
   }
-  
+  */
   /*////////////////////////////[ Responsive ]////////////////////////////*/
   
   @media (max-width: 1200px) {
@@ -386,7 +390,7 @@ p{
   
   
   /*------------------------------------------------------------------*/
-  
+  /*
   .validate-input {
     position: relative;
   }
@@ -470,3 +474,4 @@ p{
   {
     margin-bottom: 3px;
   }
+*/
