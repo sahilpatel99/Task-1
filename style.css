@@ -125,7 +125,7 @@ p{
   
   /*---------------------------------------------*/
  /* button {
-      outline: none !important;
+      outline: none;
       border: none;
       background: white;
   }
