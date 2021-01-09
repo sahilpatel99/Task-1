@@ -124,7 +124,7 @@ p{
   textarea:-ms-input-placeholder { color: #aaaaaa; }
   
   /*---------------------------------------------*/
- /* button {
+  button {
       outline: none;
       border: none;
       background: white;
@@ -136,13 +136,13 @@ p{
   
   iframe {
       border: none !important;
-  }*/
+  }
   
   
   
   
   /*/////////////////////[ Contact ]/////////////////////////*/
-  /*
+ 
   
   .container-contact100 {
     width: 100%;  
@@ -173,7 +173,7 @@ p{
     justify-content: space-between;
     padding: 110px 130px 157px 148px;
   }
-  */
+  
 
   /*------------------------------------------------------------------*/
   .contact100-pic {
@@ -218,7 +218,7 @@ p{
   }
   
   /*---------------------------------------------*/
-/* 
+
 .wrap-input100 {
     position: relative;
     width: 100%;
@@ -235,7 +235,7 @@ p{
     line-height: 1.5;
     color: #666666;
   }
-  */
+ 
   
   /*------------------------------------------------------------------*/
   
