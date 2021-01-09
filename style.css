@@ -238,7 +238,7 @@ p{
   */
   
   /*------------------------------------------------------------------*/
-/*  
+  
 .focus-input100 {
     display: block;
     position: absolute;
@@ -299,9 +299,9 @@ p{
     color: #846add;
     padding-left: 22px;
   }
- */ 
+  
   /*//////////////////////////[ Button ]//////////////////////////*/
-/*  
+ 
 .container-contact100-form-btn {
     width: 100%;
     display: -webkit-box;
@@ -341,7 +341,7 @@ p{
   .contact100-form-btn:hover {
     background: #333333;
   }
-  */
+  
   /*////////////////////////////[ Responsive ]////////////////////////////*/
   
   @media (max-width: 1200px) {
